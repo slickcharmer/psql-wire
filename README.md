@@ -46,3 +46,4 @@ Feel free to checkout the [open TODO's](https://github.com/jeroenrinzema/psql-wi
 Everyone is welcome to contribute, whether it's in the form of code, documentation, bug reports, feature requests, or anything else. We encourage you to experiment with the project and make contributions to help evolve it to meet your needs!
 
 See the [contributing guide](https://github.com/jeroenrinzema/psql-wire/blob/main/CONTRIBUTING.md) for more details.
+
